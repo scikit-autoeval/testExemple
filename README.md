@@ -18,4 +18,4 @@ fraude-2024-controle.csv: conjunto rotulado de treino e controle.
 fraude-2025-controle.csv: conjunto de teste, sem rótulos disponíveis (cenário de predição futura).
 
 # 🧪 Tarefa
-Utilize o código fornecido e complete o trecho indicado, configurando corretamente o estimador SHAP da biblioteca scikit-autoeval para estimar o desempenho do modelo em 2025. Para isso, utilize a documentação da biblioteca.
+Utilize o código fornecido e complete o trecho indicado, configurando corretamente o estimador SHAP da biblioteca scikit-autoeval para estimar o desempenho do modelo em 2025. Para isso, utilize a [documentação da biblioteca](https://scikit-autoeval.github.io/scikit-autoeval/index.html).
